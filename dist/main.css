@@ -1,0 +1,12 @@
+.globe{
+    position: absolute;
+    top: 25vh;
+    left: 60%;
+    height: 980px;
+    width: 980px;
+    z-index: -1;
+    -webkit-transform: translate(0,-50%);
+    transform: translate(0,-50%);
+    -webkit-filter: drop-shadow(-17px 47px 70px rgb(220, 224, 231));
+    filter: drop-shadow(-17px 47px 70px rgb(120, 122, 126));
+}
